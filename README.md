@@ -2,12 +2,15 @@
  The Face Recognition Attendance System is a Flask-based application that utilizes face recognition technology to automate the process of   marking attendance. It offers a convenient and efficient way to track attendance by identifying individuals based on their faces.
  
  introduction
+ 
  An attendance system using face recognition is a computer-based system that uses machine learning algorithms and computer vision techniques to recognize and record the attendance of individuals. This system typically involves capturing images of individuals, detecting and recognizing their faces, and recording the attendance information in a database or a file.
  
  Describe the model and working
+ 
  The attendance system using face recognition captures images of individuals, detects and recognizes their faces in real-time using a pre-trained machine learning model, and records the attendance information in a database. The system automates the attendance tracking process, eliminates the need for manual record-keeping, and provides real-time attendance data.
 
 experimentsl setup and dependencies for the project
+
 This code is a simple attendance management system that uses face recognition to mark attendance. It is a Flask application that uses the OpenCV library for image processing and the scikit-learn library for machine learning.
 
 The dependencies required to run this code are:
@@ -22,6 +25,7 @@ Additionally, the code also uses the haarcascade_frontalface_default.xml file fo
 The code is a Python program that uses the Flask web framework to create a web application for facial recognition-based attendance management. Here are the main dependencies used in the code:
 
 overiew of all libaries
+
 OpenCV (cv2): A computer vision library used for face detection and image processing.
 Flask: A web framework for building web applications in Python.
 NumPy: A numerical computing library used for array processing and linear algebra operations.
