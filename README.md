@@ -11,11 +11,11 @@
 
 experimentsl setup and dependencies for the project
 
-This code is a simple attendance management system that uses face recognition to mark attendance. It is a Flask application that uses the OpenCV library for image processing and the scikit-learn library for machine learning.
+ This code is a simple attendance management system that uses face recognition to mark attendance. It is a Flask application that uses the OpenCV library for image processing and the scikit-learn library for machine learning.
 
 The dependencies required to run this code are:
 
-Flask (version 2.0.1)
+ Flask (version 2.0.1)
 opencv-python (version 4.5.3.56)
 pandas (version 1.3.4)
 scikit-learn (version 1.0.2)
@@ -26,7 +26,7 @@ The code is a Python program that uses the Flask web framework to create a web a
 
 overiew of all libaries
 
-OpenCV (cv2): A computer vision library used for face detection and image processing.
+ OpenCV (cv2): A computer vision library used for face detection and image processing.
 Flask: A web framework for building web applications in Python.
 NumPy: A numerical computing library used for array processing and linear algebra operations.
 scikit-learn: A machine learning library used for K-nearest neighbors classifier for face recognition.
